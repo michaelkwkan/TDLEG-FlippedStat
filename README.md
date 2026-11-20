@@ -20,11 +20,10 @@ when used.
 
 ## Public website
 
-The `Deploy to GitHub Pages` workflow publishes the site on every push to
-`main`. After the first successful workflow run, it will be available at:
+Try the public demo:
 
 <https://michaelkwkan.github.io/TDLEG-FlippedStat/>
 
-To try it locally, use the local server instructions above. The repository and
-its source are public so the hosted page can be tried without cloning the
-project.
+The `Deploy to GitHub Pages` workflow publishes updates on every push to
+`main`. The repository and its source are public, but visitors only need the
+demo link; they do not need Git or a GitHub account.
